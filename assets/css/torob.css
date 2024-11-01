@@ -1,0 +1,22 @@
+.ks-torob-wrapper img{
+    border-radius: 5px;
+}
+.torob-red {
+    font-weight: bold;
+    color: red !important;
+}
+.torob-green {
+    font-weight: bold;
+    color: green !important;
+}
+.torob-headers {
+    font-family: tahoma;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+.help-title {
+    color: black;
+    font-family: tahoma !important;
+    background-color: lightpink;
+}
